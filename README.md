@@ -5,7 +5,9 @@ shareable page — contribution trends, language breakdown, top repos, and stats
 
 **Live:** [https://devpulse.vercel.app](https://devpulse-amber.vercel.app/)
 
-DevPulse Dashboard<img width="1512" height="863" alt="Screenshot 2026-04-27 at 11 10 13 PM" src="https://github.com/user-attachments/assets/fddfc4dd-8696-44c3-86bd-23981239ea54" />
+DevPulse Dashboard
+<img width="1512" height="982" alt="Screenshot 2026-04-28 at 10 23 06 AM" src="https://github.com/user-attachments/assets/3fc72681-1d6d-4c95-929a-b9851ab2ad1a" />
+
 
 ## What it does
 
